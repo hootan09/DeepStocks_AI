@@ -13,3 +13,4 @@ datasets
 fastapi
 uvicorn
 pydantic
+hf_xet
