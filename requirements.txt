@@ -1,8 +1,8 @@
 jupyter==1.0.0
 numpy==1.26.4
-pandas==1.3.5
+pandas
 #spacy==3.2.1
-matplotlib==3.5.1
+matplotlib
 torch
 scikit-learn
 yfinance
