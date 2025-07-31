@@ -341,6 +341,7 @@ class TradingBot:
 از `Grok.txt` و `google.txt` برای شبیه‌سازی با داده‌های نمونه و نمایش خروجی استفاده می‌کنیم.
 
 ```python
+# Code
 # شبیه‌سازی داده‌های نمونه
 last_30_days = full_data['AAPL'].tail(31).iloc[:-1]
 today_news = "Apple announces record buyback program"

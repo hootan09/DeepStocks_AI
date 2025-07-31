@@ -1,0 +1,15 @@
+jupyter==1.0.0
+numpy==1.26.4
+pandas==1.3.5
+#spacy==3.2.1
+matplotlib==3.5.1
+torch
+scikit-learn
+yfinance
+ta
+tqdm
+transformers
+datasets
+fastapi
+uvicorn
+pydantic
