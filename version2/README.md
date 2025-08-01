@@ -49,10 +49,10 @@ Below I list the strengths and then a concrete “check-list” of improvements,
     • `random.seed(42)`, `np.random.seed(42)`, `torch.manual_seed(42)`.
     
 3.  Logging  
-    • Replace all `print` statements with the `logging` module; add a small `loguru` or `tqdm.write` wrapper for the training loop.
+    • Replace all `print` statements with the `logging` module; add a small `loguru` or `tqdm.write` wrapper for the training loop. - [X]
     
 4.  Hyper-parameters  
-    • Put `lookback`, `hidden`, `lr`, `epochs`, `batch_size`, `confidence_threshold` in a single YAML / JSON config file and read it with `hydra` or `omegaconf`.
+    • Put `lookback`, `hidden`, `lr`, `epochs`, `batch_size`, `confidence_threshold` in a single YAML / JSON config file and read it with `hydra` or `omegaconf`. - [X]
     
 5.  Model checkpointing  
     • Save the best validation-accuracy model, not the last one:
@@ -192,13 +192,16 @@ Highlights
     
 -   Walk-forward “purged” CV instead of random split
     
--   Real news via Finnhub (free key needed) – falls back to synthetic if key missing
-    
 -   Scaler fitted only on training fold
     
 -   Early stopping + best-model checkpointing
     
 -   Clean module structure (`src/`) with unit tests & logging
+    
+
+
+
+
     
 -   Slippage + commission in `TradingBot`
     
