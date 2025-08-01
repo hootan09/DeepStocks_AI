@@ -1,0 +1,103 @@
+2025-08-01 11:09:53.018 | WARNING  | src.data:download_price_news:63 - Using synthetic news
+2025-08-01 11:15:52.996 | WARNING  | src.data:download_price_news:63 - Using synthetic news
+2025-08-01 11:15:59.194 | WARNING  | src.data:download_price_news:63 - Using synthetic news
+2025-08-01 11:16:18.079 | WARNING  | src.data:download_price_news:68 - Using synthetic news
+2025-08-01 11:18:41.599 | WARNING  | src.data:download_price_news:68 - Using synthetic news
+2025-08-01 11:20:35.936 | WARNING  | src.data:download_price_news:68 - Using synthetic news
+2025-08-01 11:20:51.969 | WARNING  | src.data:download_price_news:68 - Using synthetic news
+2025-08-01 11:21:28.447 | WARNING  | src.data:download_price_news:68 - Using synthetic news
+2025-08-01 11:22:52.207 | WARNING  | src.data:download_price_news:68 - Using synthetic news
+2025-08-01 11:22:57.268 | WARNING  | src.data:download_price_news:68 - Using synthetic news
+2025-08-01 11:23:13.382 | WARNING  | src.data:download_price_news:68 - Using synthetic news
+2025-08-01 11:26:10.514 | WARNING  | src.data:download_price_news:68 - Using synthetic news
+2025-08-01 11:26:43.189 | WARNING  | src.data:download_price_news:68 - Using synthetic news
+2025-08-01 11:28:10.279 | WARNING  | src.data:download_price_news:68 - Using synthetic news
+2025-08-01 11:42:27.520 | WARNING  | src.data:download_price_news:56 - Using synthetic news
+2025-08-01 11:42:58.020 | WARNING  | src.data:download_price_news:56 - Using synthetic news
+2025-08-01 11:43:53.838 | WARNING  | src.data:download_price_news:58 - Using synthetic news
+2025-08-01 11:44:44.070 | WARNING  | src.data:download_price_news:58 - Using synthetic news
+2025-08-01 11:44:59.959 | WARNING  | src.data:download_price_news:58 - Using synthetic news
+2025-08-01 11:47:48.295 | WARNING  | src.data:download_price_news:56 - Using synthetic news
+2025-08-01 11:48:11.398 | WARNING  | src.data:download_price_news:56 - Using synthetic news
+2025-08-01 11:50:13.764 | WARNING  | src.data:download_price_news:60 - Using synthetic news
+2025-08-01 11:50:13.778 | INFO     | src.data:_save_to_cache:33 - Saved data to cache c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:52:09.873 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:52:22.164 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:52:48.593 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:53:00.090 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:53:17.953 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:53:29.631 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:53:35.297 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:53:41.255 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:53:57.897 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:54:08.040 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:55:26.866 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:55:36.363 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:55:45.969 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:56:00.591 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:56:18.121 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:56:23.577 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 11:57:25.801 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 12:52:37.277 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 12:52:47.089 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 12:52:47.089 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 12:53:31.761 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 12:54:31.562 | INFO     | __main__:<module>:21 - Epoch 001 | train 0.515 | val 0.566
+2025-08-01 12:54:31.899 | INFO     | __main__:<module>:21 - Epoch 002 | train 0.524 | val 0.517
+2025-08-01 12:54:32.267 | INFO     | __main__:<module>:21 - Epoch 003 | train 0.517 | val 0.538
+2025-08-01 12:54:32.596 | INFO     | __main__:<module>:21 - Epoch 004 | train 0.541 | val 0.497
+2025-08-01 12:54:32.983 | INFO     | __main__:<module>:21 - Epoch 005 | train 0.527 | val 0.414
+2025-08-01 12:54:33.322 | INFO     | __main__:<module>:21 - Epoch 006 | train 0.525 | val 0.372
+2025-08-01 12:54:33.664 | INFO     | __main__:<module>:21 - Epoch 007 | train 0.525 | val 0.441
+2025-08-01 12:54:34.004 | INFO     | __main__:<module>:21 - Epoch 008 | train 0.536 | val 0.483
+2025-08-01 12:54:34.349 | INFO     | __main__:<module>:21 - Epoch 009 | train 0.545 | val 0.566
+2025-08-01 12:54:34.664 | INFO     | __main__:<module>:21 - Epoch 010 | train 0.540 | val 0.531
+2025-08-01 12:54:35.001 | INFO     | __main__:<module>:21 - Epoch 011 | train 0.527 | val 0.455
+2025-08-01 12:54:35.330 | INFO     | __main__:<module>:21 - Epoch 012 | train 0.528 | val 0.552
+2025-08-01 12:54:35.673 | INFO     | __main__:<module>:21 - Epoch 013 | train 0.538 | val 0.545
+2025-08-01 12:54:36.015 | INFO     | __main__:<module>:21 - Epoch 014 | train 0.557 | val 0.462
+2025-08-01 12:54:36.363 | INFO     | __main__:<module>:21 - Epoch 015 | train 0.530 | val 0.448
+2025-08-01 12:54:36.689 | INFO     | __main__:<module>:21 - Epoch 016 | train 0.534 | val 0.441
+2025-08-01 12:54:37.014 | INFO     | __main__:<module>:21 - Epoch 017 | train 0.530 | val 0.448
+2025-08-01 12:54:37.334 | INFO     | __main__:<module>:21 - Epoch 018 | train 0.547 | val 0.552
+2025-08-01 12:54:37.664 | INFO     | __main__:<module>:21 - Epoch 019 | train 0.533 | val 0.566
+2025-08-01 12:54:38.004 | INFO     | __main__:<module>:21 - Epoch 020 | train 0.531 | val 0.566
+2025-08-01 12:54:38.333 | INFO     | __main__:<module>:21 - Epoch 021 | train 0.531 | val 0.566
+2025-08-01 12:54:38.333 | INFO     | __main__:<module>:23 - Early stopping
+2025-08-01 12:55:19.391 | SUCCESS  | __main__:<module>:6 - Test accuracy: 55.682%
+2025-08-01 12:57:34.235 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2 kimi_k2\.cache\price_data\AAPL_2020-01-01_2025-08-01.csv
+2025-08-01 12:57:50.666 | INFO     | __main__:<module>:21 - Epoch 001 | train 0.504 | val 0.441
+2025-08-01 12:57:51.003 | INFO     | __main__:<module>:21 - Epoch 002 | train 0.521 | val 0.566
+2025-08-01 12:57:51.346 | INFO     | __main__:<module>:21 - Epoch 003 | train 0.526 | val 0.441
+2025-08-01 12:57:51.685 | INFO     | __main__:<module>:21 - Epoch 004 | train 0.516 | val 0.448
+2025-08-01 12:57:52.018 | INFO     | __main__:<module>:21 - Epoch 005 | train 0.536 | val 0.566
+2025-08-01 12:57:52.385 | INFO     | __main__:<module>:21 - Epoch 006 | train 0.537 | val 0.497
+2025-08-01 12:57:52.728 | INFO     | __main__:<module>:21 - Epoch 007 | train 0.538 | val 0.400
+2025-08-01 12:57:53.062 | INFO     | __main__:<module>:21 - Epoch 008 | train 0.518 | val 0.434
+2025-08-01 12:57:53.386 | INFO     | __main__:<module>:21 - Epoch 009 | train 0.545 | val 0.469
+2025-08-01 12:57:53.732 | INFO     | __main__:<module>:21 - Epoch 010 | train 0.525 | val 0.455
+2025-08-01 12:57:54.060 | INFO     | __main__:<module>:21 - Epoch 011 | train 0.517 | val 0.566
+2025-08-01 12:57:54.487 | INFO     | __main__:<module>:21 - Epoch 012 | train 0.531 | val 0.503
+2025-08-01 12:57:54.800 | INFO     | __main__:<module>:21 - Epoch 013 | train 0.526 | val 0.566
+2025-08-01 12:57:55.133 | INFO     | __main__:<module>:21 - Epoch 014 | train 0.530 | val 0.566
+2025-08-01 12:57:55.466 | INFO     | __main__:<module>:21 - Epoch 015 | train 0.527 | val 0.490
+2025-08-01 12:57:55.791 | INFO     | __main__:<module>:21 - Epoch 016 | train 0.511 | val 0.441
+2025-08-01 12:57:56.133 | INFO     | __main__:<module>:21 - Epoch 017 | train 0.524 | val 0.448
+2025-08-01 12:57:56.466 | INFO     | __main__:<module>:21 - Epoch 018 | train 0.524 | val 0.503
+2025-08-01 12:57:56.786 | INFO     | __main__:<module>:21 - Epoch 019 | train 0.541 | val 0.510
+2025-08-01 12:57:57.107 | INFO     | __main__:<module>:21 - Epoch 020 | train 0.555 | val 0.434
+2025-08-01 12:57:57.449 | INFO     | __main__:<module>:21 - Epoch 021 | train 0.544 | val 0.379
+2025-08-01 12:57:57.749 | INFO     | __main__:<module>:21 - Epoch 022 | train 0.533 | val 0.566
+2025-08-01 12:57:58.092 | INFO     | __main__:<module>:21 - Epoch 023 | train 0.541 | val 0.455
+2025-08-01 12:57:58.417 | INFO     | __main__:<module>:21 - Epoch 024 | train 0.534 | val 0.448
+2025-08-01 12:57:58.750 | INFO     | __main__:<module>:21 - Epoch 025 | train 0.533 | val 0.448
+2025-08-01 12:57:59.082 | INFO     | __main__:<module>:21 - Epoch 026 | train 0.551 | val 0.566
+2025-08-01 12:57:59.419 | INFO     | __main__:<module>:21 - Epoch 027 | train 0.536 | val 0.434
+2025-08-01 12:57:59.752 | INFO     | __main__:<module>:21 - Epoch 028 | train 0.540 | val 0.407
+2025-08-01 12:58:00.101 | INFO     | __main__:<module>:21 - Epoch 029 | train 0.524 | val 0.400
+2025-08-01 12:58:00.434 | INFO     | __main__:<module>:21 - Epoch 030 | train 0.514 | val 0.379
+2025-08-01 12:58:00.750 | INFO     | __main__:<module>:21 - Epoch 031 | train 0.551 | val 0.434
+2025-08-01 12:58:01.101 | INFO     | __main__:<module>:21 - Epoch 032 | train 0.551 | val 0.428
+2025-08-01 12:58:01.435 | INFO     | __main__:<module>:21 - Epoch 033 | train 0.547 | val 0.448
+2025-08-01 12:58:01.436 | INFO     | __main__:<module>:23 - Early stopping
+2025-08-01 12:58:08.635 | SUCCESS  | __main__:<module>:6 - Test accuracy: 55.682%

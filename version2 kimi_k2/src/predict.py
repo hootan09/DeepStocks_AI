@@ -1,4 +1,5 @@
-import torch, yfinance as yf, datetime
+import torch
+from src.model import StockNet
 class StockPredictor:
     def __init__(self, ckpt_path, scaler, lookback):
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -8,7 +9,6 @@ class StockPredictor:
         self.scaler = scaler
         self.lookback = lookback
     def predict_one(self, price_df, news):
-        import pandas as pd
         feats = price_df[["Close","High","Low","Open","Volume","RSI","MACD","MACD_Signal","MACD_Hist","BB_Upper","BB_Middle","BB_Lower","VWAP"]].values
         feats = torch.tensor(self.scaler.transform(feats[-self.lookback:]), dtype=torch.float32).unsqueeze(0).to(self.device)
         from transformers import AutoTokenizer, AutoModel

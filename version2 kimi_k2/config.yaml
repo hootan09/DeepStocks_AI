@@ -2,8 +2,7 @@ data:
   ticker: AAPL
   start: "2020-01-01"
   end: null          # null ⇒ until today
-  news_api: "finnhub"   # "finnhub" | "fake"
-  finnhub_key: null     # export FINNHUB_API_KEY=xxx
+  force_refresh: False
 
 features:
   lookback: 30

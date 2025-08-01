@@ -5,10 +5,11 @@ numpy
 scikit-learn
 yfinance
 ta
-finnhub-python
 hydra-core
 omegaconf
 loguru
 fastapi
 uvicorn
 pytest
+matplotlib
+hf_xet

@@ -5,6 +5,7 @@ from ta.volume import VolumeWeightedAveragePrice
 from sklearn.preprocessing import StandardScaler
 from torch.utils.data import Dataset
 import torch, numpy as np
+import pandas as pd
 
 def add_indicators(df, cfg):
     df = df.copy()
@@ -37,17 +38,25 @@ class StockDataset(Dataset):
 
 def build_dataset(train_df, val_df, test_df, lookback):
     from transformers import AutoTokenizer, AutoModel
+    import torch
+
     tokenizer = AutoTokenizer.from_pretrained("ProsusAI/finbert")
     bert = AutoModel.from_pretrained("ProsusAI/finbert")
+
     def embed(texts):
         tokens = tokenizer(texts.tolist(), padding=True, truncation=True,
                            max_length=64, return_tensors="pt")
         with torch.no_grad():
             return bert(**tokens).pooler_output
+
     train_emb = embed(train_df["titles"])
     val_emb   = embed(val_df["titles"])
     test_emb  = embed(test_df["titles"])
-    return (StockDataset(train_df, train_emb, lookback),
-            StockDataset(val_df,   val_emb,   lookback),
-            StockDataset(test_df,  test_emb,  lookback),
-            train_ds.scaler)   # return only training scaler
+
+    # build datasets
+    train_ds = StockDataset(train_df, train_emb, lookback)
+    val_ds   = StockDataset(val_df,   val_emb,   lookback)
+    test_ds  = StockDataset(test_df,  test_emb,  lookback)
+
+    # return them plus the scaler that was fitted on training data
+    return train_ds, val_ds, test_ds, train_ds.scaler
