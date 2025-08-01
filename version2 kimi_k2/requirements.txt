@@ -1,0 +1,14 @@
+torch>=2.0
+transformers
+pandas
+numpy
+scikit-learn
+yfinance
+ta
+finnhub-python
+hydra-core
+omegaconf
+loguru
+fastapi
+uvicorn
+pytest

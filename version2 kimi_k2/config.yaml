@@ -1,0 +1,29 @@
+data:
+  ticker: AAPL
+  start: "2020-01-01"
+  end: null          # null ⇒ until today
+  news_api: "finnhub"   # "finnhub" | "fake"
+  finnhub_key: null     # export FINNHUB_API_KEY=xxx
+
+features:
+  lookback: 30
+  indicators:
+    rsi_window: 14
+    macd_fast: 12
+    macd_slow: 26
+    macd_sign: 9
+    bb_window: 20
+    bb_std: 2
+    vwap_window: 20
+
+training:
+  batch_size: 64
+  max_epochs: 400
+  patience: 20
+  lr: 1e-3
+  weight_decay: 0.0
+
+paths:
+  data_dir: ./data
+  model_dir: ./models
+  log_dir: ./logs
