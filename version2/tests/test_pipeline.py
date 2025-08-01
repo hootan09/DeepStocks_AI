@@ -1,4 +1,4 @@
-import sys, pandas as pd, numpy as np
+import sys, pandas as pd
 sys.path.append("src")
 from src.features import add_indicators
 def test_no_nan_after_indicators():
