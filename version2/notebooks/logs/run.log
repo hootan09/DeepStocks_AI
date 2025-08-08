@@ -101,3 +101,79 @@
 2025-08-01 12:58:01.435 | INFO     | __main__:<module>:21 - Epoch 033 | train 0.547 | val 0.448
 2025-08-01 12:58:01.436 | INFO     | __main__:<module>:23 - Early stopping
 2025-08-01 12:58:08.635 | SUCCESS  | __main__:<module>:6 - Test accuracy: 55.682%
+2025-08-08 19:54:25.064 | WARNING  | src.data:download_price_news:60 - Using synthetic news
+2025-08-08 19:54:25.088 | INFO     | src.data:_save_to_cache:33 - Saved data to cache c:\Users\niki\Desktop\DeepStocks_AI\version2\.cache\price_data\AAPL_2020-01-01_2025-08-08.csv
+2025-08-08 20:03:18.352 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2\.cache\price_data\AAPL_2020-01-01_2025-08-08.csv
+2025-08-08 20:03:18.352 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2\.cache\price_data\AAPL_2020-01-01_2025-08-08.csv
+2025-08-08 20:08:42.273 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2\.cache\price_data\AAPL_2020-01-01_2025-08-08.csv
+2025-08-08 20:08:42.273 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2\.cache\price_data\AAPL_2020-01-01_2025-08-08.csv
+2025-08-08 20:08:42.273 | INFO     | src.data:_load_from_cache:22 - Loading cached data from c:\Users\niki\Desktop\DeepStocks_AI\version2\.cache\price_data\AAPL_2020-01-01_2025-08-08.csv
+2025-08-08 20:09:07.133 | INFO     | __main__:<module>:21 - Epoch 001 | train 0.513 | val 0.575
+2025-08-08 20:09:07.133 | INFO     | __main__:<module>:21 - Epoch 001 | train 0.513 | val 0.575
+2025-08-08 20:09:07.133 | INFO     | __main__:<module>:21 - Epoch 001 | train 0.513 | val 0.575
+2025-08-08 20:09:07.473 | INFO     | __main__:<module>:21 - Epoch 002 | train 0.489 | val 0.500
+2025-08-08 20:09:07.473 | INFO     | __main__:<module>:21 - Epoch 002 | train 0.489 | val 0.500
+2025-08-08 20:09:07.473 | INFO     | __main__:<module>:21 - Epoch 002 | train 0.489 | val 0.500
+2025-08-08 20:09:07.806 | INFO     | __main__:<module>:21 - Epoch 003 | train 0.528 | val 0.514
+2025-08-08 20:09:07.806 | INFO     | __main__:<module>:21 - Epoch 003 | train 0.528 | val 0.514
+2025-08-08 20:09:07.806 | INFO     | __main__:<module>:21 - Epoch 003 | train 0.528 | val 0.514
+2025-08-08 20:09:08.139 | INFO     | __main__:<module>:21 - Epoch 004 | train 0.552 | val 0.452
+2025-08-08 20:09:08.139 | INFO     | __main__:<module>:21 - Epoch 004 | train 0.552 | val 0.452
+2025-08-08 20:09:08.139 | INFO     | __main__:<module>:21 - Epoch 004 | train 0.552 | val 0.452
+2025-08-08 20:09:08.473 | INFO     | __main__:<module>:21 - Epoch 005 | train 0.543 | val 0.445
+2025-08-08 20:09:08.473 | INFO     | __main__:<module>:21 - Epoch 005 | train 0.543 | val 0.445
+2025-08-08 20:09:08.473 | INFO     | __main__:<module>:21 - Epoch 005 | train 0.543 | val 0.445
+2025-08-08 20:09:08.800 | INFO     | __main__:<module>:21 - Epoch 006 | train 0.532 | val 0.452
+2025-08-08 20:09:08.800 | INFO     | __main__:<module>:21 - Epoch 006 | train 0.532 | val 0.452
+2025-08-08 20:09:08.800 | INFO     | __main__:<module>:21 - Epoch 006 | train 0.532 | val 0.452
+2025-08-08 20:09:09.090 | INFO     | __main__:<module>:21 - Epoch 007 | train 0.526 | val 0.479
+2025-08-08 20:09:09.090 | INFO     | __main__:<module>:21 - Epoch 007 | train 0.526 | val 0.479
+2025-08-08 20:09:09.090 | INFO     | __main__:<module>:21 - Epoch 007 | train 0.526 | val 0.479
+2025-08-08 20:09:09.406 | INFO     | __main__:<module>:21 - Epoch 008 | train 0.549 | val 0.500
+2025-08-08 20:09:09.406 | INFO     | __main__:<module>:21 - Epoch 008 | train 0.549 | val 0.500
+2025-08-08 20:09:09.406 | INFO     | __main__:<module>:21 - Epoch 008 | train 0.549 | val 0.500
+2025-08-08 20:09:09.739 | INFO     | __main__:<module>:21 - Epoch 009 | train 0.528 | val 0.541
+2025-08-08 20:09:09.739 | INFO     | __main__:<module>:21 - Epoch 009 | train 0.528 | val 0.541
+2025-08-08 20:09:09.739 | INFO     | __main__:<module>:21 - Epoch 009 | train 0.528 | val 0.541
+2025-08-08 20:09:10.056 | INFO     | __main__:<module>:21 - Epoch 010 | train 0.538 | val 0.466
+2025-08-08 20:09:10.056 | INFO     | __main__:<module>:21 - Epoch 010 | train 0.538 | val 0.466
+2025-08-08 20:09:10.056 | INFO     | __main__:<module>:21 - Epoch 010 | train 0.538 | val 0.466
+2025-08-08 20:09:10.366 | INFO     | __main__:<module>:21 - Epoch 011 | train 0.543 | val 0.521
+2025-08-08 20:09:10.366 | INFO     | __main__:<module>:21 - Epoch 011 | train 0.543 | val 0.521
+2025-08-08 20:09:10.366 | INFO     | __main__:<module>:21 - Epoch 011 | train 0.543 | val 0.521
+2025-08-08 20:09:10.673 | INFO     | __main__:<module>:21 - Epoch 012 | train 0.527 | val 0.452
+2025-08-08 20:09:10.673 | INFO     | __main__:<module>:21 - Epoch 012 | train 0.527 | val 0.452
+2025-08-08 20:09:10.673 | INFO     | __main__:<module>:21 - Epoch 012 | train 0.527 | val 0.452
+2025-08-08 20:09:10.990 | INFO     | __main__:<module>:21 - Epoch 013 | train 0.545 | val 0.445
+2025-08-08 20:09:10.990 | INFO     | __main__:<module>:21 - Epoch 013 | train 0.545 | val 0.445
+2025-08-08 20:09:10.990 | INFO     | __main__:<module>:21 - Epoch 013 | train 0.545 | val 0.445
+2025-08-08 20:09:11.316 | INFO     | __main__:<module>:21 - Epoch 014 | train 0.564 | val 0.452
+2025-08-08 20:09:11.316 | INFO     | __main__:<module>:21 - Epoch 014 | train 0.564 | val 0.452
+2025-08-08 20:09:11.316 | INFO     | __main__:<module>:21 - Epoch 014 | train 0.564 | val 0.452
+2025-08-08 20:09:11.625 | INFO     | __main__:<module>:21 - Epoch 015 | train 0.544 | val 0.445
+2025-08-08 20:09:11.625 | INFO     | __main__:<module>:21 - Epoch 015 | train 0.544 | val 0.445
+2025-08-08 20:09:11.625 | INFO     | __main__:<module>:21 - Epoch 015 | train 0.544 | val 0.445
+2025-08-08 20:09:11.953 | INFO     | __main__:<module>:21 - Epoch 016 | train 0.541 | val 0.445
+2025-08-08 20:09:11.953 | INFO     | __main__:<module>:21 - Epoch 016 | train 0.541 | val 0.445
+2025-08-08 20:09:11.953 | INFO     | __main__:<module>:21 - Epoch 016 | train 0.541 | val 0.445
+2025-08-08 20:09:12.270 | INFO     | __main__:<module>:21 - Epoch 017 | train 0.541 | val 0.452
+2025-08-08 20:09:12.270 | INFO     | __main__:<module>:21 - Epoch 017 | train 0.541 | val 0.452
+2025-08-08 20:09:12.270 | INFO     | __main__:<module>:21 - Epoch 017 | train 0.541 | val 0.452
+2025-08-08 20:09:12.581 | INFO     | __main__:<module>:21 - Epoch 018 | train 0.542 | val 0.452
+2025-08-08 20:09:12.581 | INFO     | __main__:<module>:21 - Epoch 018 | train 0.542 | val 0.452
+2025-08-08 20:09:12.581 | INFO     | __main__:<module>:21 - Epoch 018 | train 0.542 | val 0.452
+2025-08-08 20:09:12.890 | INFO     | __main__:<module>:21 - Epoch 019 | train 0.546 | val 0.459
+2025-08-08 20:09:12.890 | INFO     | __main__:<module>:21 - Epoch 019 | train 0.546 | val 0.459
+2025-08-08 20:09:12.890 | INFO     | __main__:<module>:21 - Epoch 019 | train 0.546 | val 0.459
+2025-08-08 20:09:13.209 | INFO     | __main__:<module>:21 - Epoch 020 | train 0.543 | val 0.452
+2025-08-08 20:09:13.209 | INFO     | __main__:<module>:21 - Epoch 020 | train 0.543 | val 0.452
+2025-08-08 20:09:13.209 | INFO     | __main__:<module>:21 - Epoch 020 | train 0.543 | val 0.452
+2025-08-08 20:09:13.523 | INFO     | __main__:<module>:21 - Epoch 021 | train 0.558 | val 0.486
+2025-08-08 20:09:13.523 | INFO     | __main__:<module>:21 - Epoch 021 | train 0.558 | val 0.486
+2025-08-08 20:09:13.523 | INFO     | __main__:<module>:21 - Epoch 021 | train 0.558 | val 0.486
+2025-08-08 20:09:13.523 | INFO     | __main__:<module>:23 - Early stopping
+2025-08-08 20:09:13.523 | INFO     | __main__:<module>:23 - Early stopping
+2025-08-08 20:09:13.523 | INFO     | __main__:<module>:23 - Early stopping
+2025-08-08 20:11:53.183 | SUCCESS  | __main__:<module>:6 - Test accuracy: 54.545%
+2025-08-08 20:11:53.183 | SUCCESS  | __main__:<module>:6 - Test accuracy: 54.545%
+2025-08-08 20:11:53.183 | SUCCESS  | __main__:<module>:6 - Test accuracy: 54.545%

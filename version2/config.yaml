@@ -17,7 +17,7 @@ features:
 
 training:
   batch_size: 64
-  max_epochs: 400
+  max_epochs: 100
   patience: 20
   lr: 1e-3
   weight_decay: 0.0
